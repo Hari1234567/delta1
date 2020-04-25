@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DeltaTask1Main</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="enter_number_here">ENTER NUMBER HERE</string>
+
+    <string name="options">OPTIONS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="option_1">OPTION 1</string>
+    <string name="option_2">OPTION 2</string>
+    <string name="option_3">OPTION 3</string>
+    <string name="option_4">OPTION 4</string>
+    <string name="mainmenu">MainMenu</string>
+    <string name="enter_a_number_to_proceed">Enter A number to proceed</string>
+    <string name="wrongAnswerFeedback">INCORRECT, KEEP TRYING!</string>
+    <string name="CorrectAnswerFeedback">CORRECT! Press to continue</string>
+    <string name="Debug">Ha ha</string>
+    <string name="FactorFindPromt">FIND THE FACTOR!</string>
+    <string name="hacker_mode">HACKER MODE</string>
+    <string name="_0">0</string>
+    <string name="hacker_modepp">HACKER MODE++</string>
+    <string name="new_high_score">NEW HIGH SCORE!!!</string>
+    <string name="press_back_to_continue">Press Back to continue</string>
+
+
+</resources>
